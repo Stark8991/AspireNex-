@@ -15,9 +15,14 @@ To run this this project one need to just run the main.py Python script. The lib
 https://github.com/Stark8991/AspireNex-/assets/61908380/8736da1c-d05a-4ccf-a952-651d5da5006d
 
 
-## Task 1:- TIC-TAC-TOE AI
+## Task 2:- TIC-TAC-TOE AI
 
-To run this this project one need to just run the main.py Python script. For this project also i used Tkinter to make the GUI
+To run this this project one need to just run the main.py Python script. For this project also i used Tkinter to make the GUI. For the AI part i used Min-Max Algorithm.
+
+###Following is a Screenshot how the main menu of this Project looks like
+
+
+### Here is a Demo how the Face detection and Recognitation project will look like
 
 
 
