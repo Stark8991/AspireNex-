@@ -3,5 +3,5 @@
 
 
 
-#### Task 1:- Face detection and Recognitation
+## Task 1:- Face detection and Recognitation
 
