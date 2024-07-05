@@ -21,8 +21,11 @@ To run this this project one need to just run the main.py Python script. For thi
 
 ###Following is a Screenshot how the main menu of this Project looks like
 
+![1](https://github.com/Stark8991/AspireNex-/assets/61908380/ff0b5791-5b58-4d4c-b199-5795cb7a8924)
 
 ### Here is a Demo how the Face detection and Recognitation project will look like
+
+https://github.com/Stark8991/AspireNex-/assets/61908380/e4b5ac7f-44e0-460b-b51a-d965e3b065bb
 
 
 
