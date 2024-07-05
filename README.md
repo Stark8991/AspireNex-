@@ -11,5 +11,8 @@ To run this this project one need to just run the main.py Python script. The lib
 
 ### Here is a Demo how the project will look like
 
+https://github.com/Stark8991/AspireNex-/assets/61908380/8736da1c-d05a-4ccf-a952-651d5da5006d
+
+
 
 
