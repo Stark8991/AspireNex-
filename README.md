@@ -1,5 +1,5 @@
-### About Projects-
-# The Project folder contains two sub-folder each named after the Tasks completed
+## About Projects-
+### The Project folder contains two sub-folder each named after the Tasks completed
 
 
 
